@@ -1,5 +1,5 @@
 ### Hi there, I'm Ali Dhifallah! 👋
-
+<img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 I'm a 23-year-old Computer Engineering student currently in my 3rd year at ESPRIT. Passionate about technology and its endless possibilities, I'm always eager to explore new realms in the world of computer science.
 
 #### 🚀 Quick Overview:
